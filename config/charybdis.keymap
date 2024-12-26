@@ -34,7 +34,7 @@
 &kp CAPS  &trans           &trans           &trans           &trans           &bt BT_NXT      &trans         &trans       &kp UP      &trans     &trans         &kp RIGHT_BRACKET
 &trans    &trans           &trans           &trans           &trans           &bt BT_CLR      &trans         &kp LEFT     &kp DOWN    &kp RIGHT  &trans         &kp GRAVE
 &trans    &rgb_ug RGB_BRD  &rgb_ug RGB_BRI  &rgb_ug RGB_EFF  &rgb_ug RGB_TOG  &trans          &mkp MB1       &mkp MB2     &kp PERIOD  &mkp MB3   &kp BACKSLASH  &kp EQUAL
-                                            &trans           &none            &kp LEFT_WIN    &none          &kp PAGE_UP
+                                            &trans           &kp SPACE        &kp LEFT_WIN    &none          &kp PAGE_UP
                                                              &kp HOME         &kp END         &kp PAGE_DOWN
             >;
 
